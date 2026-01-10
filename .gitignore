@@ -1,20 +1,17 @@
+# General temporary files
 *.tmp
 
-# Word temporary
+# Microsoft Word temporary files
 ~$*.doc*
 ~$*.dot*
-
-# Word Auto Backup File
 Backup of *.doc*
 
-# Excel temporary
+# Microsoft Excel temporary and backup files
 ~$*.xls*
-
-# Excel Backup File
 *.xlk
 
-# PowerPoint temporary
+# Microsoft PowerPoint temporary files
 ~$*.ppt*
 
-# Visio autosave temporary files
+# Microsoft Visio autosave files
 *.~vsd*
